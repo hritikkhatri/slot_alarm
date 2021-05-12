@@ -1,1 +1,1 @@
-you can install the andrid app by downloading app-release.apk.
+you can install the android app by downloading app-release.apk.
